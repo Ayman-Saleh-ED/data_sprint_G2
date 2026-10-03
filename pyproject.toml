@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=80.4.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "olist-analysis"
+description = "Data Analysis of Olist Data"
+requires-python = ">=3.13.2"
+dependencies = ["pandas","ipykernel","matplotlib","numpy"]
+readme = "README.md"
+
+dynamic = ["version"]
