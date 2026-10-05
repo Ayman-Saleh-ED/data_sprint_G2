@@ -120,7 +120,6 @@ The sellers, geolocation and category-translation files are loaded in the Setup 
 - Only 2017 is a full year; 2016 and 2018 are partial, so seasonal findings rest on a single year.
 - The dataset has no discount field, no product cost, and no information on who funds vouchers, so vouchers stand in for discounts and margins cannot be calculated.
 - Results show associations, not causes. For example, people who use vouchers may already buy cheaper items.
-- Calendar explanations for the November and July peaks (Black Friday, Father's Day) show matching timing only.
 - Some payment rows have type `not_defined` (value 0); these are excluded from the payment-type comparison.
 - "First-time buyer" is limited to the period in this dataset.
 
