@@ -29,8 +29,6 @@ Olist, a Brazilian e-commerce platform, asked a consulting team whether its pric
 | Are vouchers distributed effectively (by state)? | Answered | Part 3 |
 | What is the % for cheaper vs expensive items? | Answered | Part 3 |
 | Is the freight value reasonable? | Partly: freight averages 30.8% of product price, with no benchmark to judge it against | Part 3 |
-| Does the same product get different vouchers from different sellers? | Not answered | n/a |
-| How do prices vary across regions? Demographics of each region? | Not answered; the dataset has no income, education, age or gender fields | n/a |
 
 ## File Directory
 
